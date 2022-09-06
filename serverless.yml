@@ -1,3 +1,5 @@
+org: cruzlucas
+app: first-project-aws
 service: first-project-aws
 frameworkVersion: '3'
 
