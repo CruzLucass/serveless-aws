@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CruzLucass/serveless-aws/issues"
   },
-  "homepage": "https://github.com/CruzLucass/serveless-aws#readme"
+  "homepage": "https://github.com/CruzLucass/serveless-aws#readme",
+  "dependencies": {
+    "nodemailer": "^6.7.8"
+  }
 }
